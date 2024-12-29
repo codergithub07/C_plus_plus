@@ -8,6 +8,10 @@ int main()
     string fname = "Prathmesh";
     string lname = "Agrawal";
 
+    string a, b;
+    cin >> a >> b;
+    cout << a << " " << b << endl;
+
     // String Concatanation :
 
         // Method 1 :
